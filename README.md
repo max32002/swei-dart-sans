@@ -77,6 +77,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾飛腿黑體 Swei Dart Leg
+https://max-everyday.com/2020/11/swei-dart-leg/
 * 獅尾飛鏢黑體 Swei Dart Sans
 https://max-everyday.com/2020/11/swei-dart-sans/
 * 獅尾火腿黑體 Swei Match Leg
